@@ -1,0 +1,602 @@
+[
+    {
+        "uuid": "e65ba436-b760-455b-a9b8-4d986e30968a",
+        "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+        "author": "Nelson Mandela",
+        "id": 1
+    },
+    {
+        "uuid": "ceff0ca5-cc16-435a-9332-95b4a9f92059",
+        "quote": "The way to get started is to quit talking and begin doing.",
+        "author": "Walt Disney",
+        "id": 2
+    },
+    {
+        "uuid": "30b0623f-d8d7-4351-a4c5-ef3624a09498",
+        "quote": "Your time is limited, don't waste it living someone else's life.",
+        "author": "Steve Jobs",
+        "id": 3
+    },
+    {
+        "uuid": "c42530b7-ca9e-4b18-a5c1-e29ee5e78fa5",
+        "quote": "If life were predictable it would cease to be life, and be without flavor.",
+        "author": "Eleanor Roosevelt",
+        "id": 4
+    },
+    {
+        "uuid": "7c1a99bc-20cb-4acf-a73f-e452dc676602",
+        "quote": "If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough.",
+        "author": "Oprah Winfrey",
+        "id": 5
+    },
+    {
+        "uuid": "24386f82-81f6-40f1-8d89-42ef57560d67",
+        "quote": "If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.",
+        "author": "James Cameron",
+        "id": 6
+    },
+    {
+        "uuid": "035b4abd-67ed-476f-807b-cda5766e25f4",
+        "quote": "Life is what happens when you're busy making other plans.",
+        "author": "John Lennon",
+        "id": 7
+    },
+    {
+        "uuid": "df2193f6-4e70-468e-b63c-686856fc25f8",
+        "quote": "Spread love everywhere you go. Let no one ever come to you without leaving happier.",
+        "author": "Mother Teresa",
+        "id": 8
+    },
+    {
+        "uuid": "0729e31b-48b5-4a94-b362-5205961aa62b",
+        "quote": "The best way to predict your future is to create it.",
+        "author": "Abraham Lincoln",
+        "id": 9
+    },
+    {
+        "uuid": "bf20180c-57ec-4a4c-b065-6ab592052b75",
+        "quote": "In the end, it's not the years in your life that count. It's the life in your years.",
+        "author": "Abraham Lincoln",
+        "id": 10
+    },
+    {
+        "uuid": "d2f4700b-3e84-4664-845e-7e446bd2be06",
+        "quote": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs",
+        "id": 11
+    },
+    {
+        "uuid": "9b3e6fa8-3a71-4946-b30c-f2cd3c4562ed",
+        "quote": "I have not failed. I've just found 10,000 ways that won't work.",
+        "author": "Thomas Edison",
+        "id": 12
+    },
+    {
+        "uuid": "700689b1-32f0-4a41-8132-49e2e582a2c2",
+        "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+        "author": "Winston Churchill",
+        "id": 13
+    },
+    {
+        "uuid": "c598dd6a-033f-4497-9073-e8370e91b48d",
+        "quote": "Believe you can and you're halfway there.",
+        "author": "Theodore Roosevelt",
+        "id": 14
+    },
+    {
+        "uuid": "a68adf77-18c5-4814-bb85-f0171f534389",
+        "quote": "Life is 10% what happens to us and 90% how we react to it.",
+        "author": "Charles R. Swindoll",
+        "id": 15
+    },
+    {
+        "uuid": "0ac39ad0-2032-4ff5-a49b-2759e61c5fc1",
+        "quote": "The only thing we have to fear is fear itself.",
+        "author": "Franklin D. Roosevelt",
+        "id": 16
+    },
+    {
+        "uuid": "473ee355-cf45-4c79-b190-b20652d46b16",
+        "quote": "Education is the most powerful weapon which you can use to change the world.",
+        "author": "Nelson Mandela",
+        "id": 17
+    },
+    {
+        "uuid": "71b78bfd-8a68-4247-89f4-9a120878fec7",
+        "quote": "The difference between a successful person and others is not a lack of strength, not a lack of intelligence, but rather a lack of will.",
+        "author": "Vince Lombardi",
+        "id": 18
+    },
+    {
+        "uuid": "dbdc7df7-0193-4a92-8815-5be764b1af69",
+        "quote": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+        "author": "Ralph Waldo Emerson",
+        "id": 19
+    },
+    {
+        "uuid": "f6a2d230-ff03-4662-8a70-b84ae916f9f9",
+        "quote": "The only true wisdom is in knowing you know nothing.",
+        "author": "Socrates",
+        "id": 20
+    },
+    {
+        "uuid": "395a1aa3-67c7-4c0f-bfee-f2c4f4385a5a",
+        "quote": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.",
+        "author": "Helen Keller",
+        "id": 21
+    },
+    {
+        "uuid": "0df2eb55-1676-41fb-8ea0-3d1ad7ba4450",
+        "quote": "Happiness is not something ready made. It comes from your own actions.",
+        "author": "Dalai Lama",
+        "id": 22
+    },
+    {
+        "uuid": "67e62353-5153-405d-9619-2d4a2d067599",
+        "quote": "The only way to do good work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it.",
+        "author": "Steve Jobs",
+        "id": 23
+    },
+    {
+        "uuid": "7a98b762-1c8e-4eae-b720-bca86c68c8e4",
+        "quote": "Success is stumbling from failure to failure with no loss of enthusiasm.",
+        "author": "Winston Churchill",
+        "id": 24
+    },
+    {
+        "uuid": "c765853d-22e2-4fbd-a077-30510f0d9ba1",
+        "quote": "Don't judge each day by the harvest you reap but by the seeds that you plant.",
+        "author": "Robert Louis Stevenson",
+        "id": 25
+    },
+    {
+        "uuid": "61c38d48-fc13-4ba6-b12c-44fc4cb21e32",
+        "quote": "We may encounter many defeats but we must not be defeated.",
+        "author": "Maya Angelou",
+        "id": 26
+    },
+    {
+        "uuid": "c9399c42-fd3a-4bf5-b5f7-6ff83569d402",
+        "quote": "You miss 100% of the shots you don't take.",
+        "author": "Wayne Gretzky",
+        "id": 27
+    },
+    {
+        "uuid": "ee69744c-5c36-4730-ad77-0211fb7befc3",
+        "quote": "It does not matter how slowly you go as long as you do not stop.",
+        "author": "Confucius",
+        "id": 28
+    },
+    {
+        "uuid": "7317f7e0-62ba-44e8-b691-c44a1c179395",
+        "quote": "I can't change the direction of the wind, but I can adjust my sails to always reach my destination.",
+        "author": "Jimmy Dean",
+        "id": 29
+    },
+    {
+        "uuid": "2e007ae0-a0e0-4038-b23f-1f09ab387e7f",
+        "quote": "A person who never made a mistake never tried anything new.",
+        "author": "Albert Einstein",
+        "id": 30
+    },
+    {
+        "uuid": "3eb29f83-05d8-4e6a-95e6-8a31ff3794bf",
+        "quote": "I have a dream that one day this nation will rise up and live out the true meaning of its creed: \"We hold these truths to be self-evident: that all men are created equal.\"",
+        "author": "Martin Luther King Jr.",
+        "id": 31
+    },
+    {
+        "uuid": "f94fba2c-3886-4b58-b3ab-29ea36d7a760",
+        "quote": "Be the change that you wish to see in the world.",
+        "author": "Mahatma Gandhi",
+        "id": 32
+    },
+    {
+        "uuid": "df6001af-fcfb-49bd-b238-9bc75b22ce25",
+        "quote": "It is during our darkest moments that we must focus to see the light.",
+        "author": "Aristotle",
+        "id": 33
+    },
+    {
+        "uuid": "4557abef-3886-4ae2-a69a-17fbd99de033",
+        "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+        "author": "Albert Schweitzer",
+        "id": 34
+    },
+    {
+        "uuid": "b25e7fef-7844-4809-aa0f-db95102f058a",
+        "quote": "It's not whether you get knocked down, it's whether you get up.",
+        "author": "Vince Lombardi",
+        "id": 35
+    },
+    {
+        "uuid": "79bbf7fd-3421-4074-8ad0-ad8b29661b56",
+        "quote": "If you want to live a happy life, tie it to a goal, not to people or things.",
+        "author": "Albert Einstein",
+        "id": 36
+    },
+    {
+        "uuid": "ab92809c-48fa-4526-b0bc-75f101aee939",
+        "quote": "I never think of the future - it comes soon enough.",
+        "author": "Albert Einstein",
+        "id": 37
+    },
+    {
+        "uuid": "3baeff45-3d86-4668-9b0c-3adc34d0fd6e",
+        "quote": "The two most important days in your life are the day you are born and the day you find out why.",
+        "author": "Mark Twain",
+        "id": 38
+    },
+    {
+        "uuid": "31582308-3d5a-4e2f-9654-abeba7883b33",
+        "quote": "It's not what you look at that matters, it's what you see.",
+        "author": "Henry David Thoreau",
+        "id": 39
+    },
+    {
+        "uuid": "38e66112-3a35-4a8e-b761-f7429622b8d8",
+        "quote": "The secret of getting ahead is getting started.",
+        "author": "Mark Twain",
+        "id": 40
+    },
+    {
+        "uuid": "56d0463a-a49b-4c4e-b4f0-ede65af5f726",
+        "quote": "The future belongs to those who believe in the beauty of their dreams.",
+        "author": "Eleanor Roosevelt",
+        "id": 41
+    },
+    {
+        "uuid": "193ce1ec-cd83-4e16-8456-83ef6c002649",
+        "quote": "It's not the years in your life that count. It's the life in your years.",
+        "author": "Abraham Lincoln",
+        "id": 42
+    },
+    {
+        "uuid": "60044b71-952f-4db7-967c-7a6cda5b1ba1",
+        "quote": "If you don't stand for something you will fall for anything.",
+        "author": "Malcolm X",
+        "id": 43
+    },
+    {
+        "uuid": "915e5b30-cae7-4b0e-9f6f-607327fcde8d",
+        "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+        "author": "Franklin D. Roosevelt",
+        "id": 44
+    },
+    {
+        "uuid": "dadb6c65-17f9-49df-8075-86ec2a0be5fd",
+        "quote": "The best way to predict the future is to invent it.",
+        "author": "Alan Kay",
+        "id": 45
+    },
+    {
+        "uuid": "2aecfed5-3c03-4085-960b-db5b836a9396",
+        "quote": "A creative man is motivated by the desire to achieve, not by the desire to beat others.",
+        "author": "Ayn Rand",
+        "id": 46
+    },
+    {
+        "uuid": "2e5a1f75-56ac-43de-8a3e-79e1e6bddc2b",
+        "quote": "If you're going through hell, keep going.",
+        "author": "Winston Churchill",
+        "id": 47
+    },
+    {
+        "uuid": "f3df0524-8576-4e9e-bbaa-192e0497906e",
+        "quote": "The only way to have a good day is to start it with a positive attitude.",
+        "author": "Unknown",
+        "id": 48
+    },
+    {
+        "uuid": "b1b6901a-69e9-4747-a698-9afb97bbad11",
+        "quote": "The only person you are destined to become is the person you decide to be.",
+        "author": "Ralph Waldo Emerson",
+        "id": 49
+    },
+    {
+        "uuid": "26483b86-825b-4f7e-86bf-4f8229e04a30",
+        "quote": "Nothing is particularly hard if you divide it into small jobs.",
+        "author": "Henry Ford",
+        "id": 50
+    },
+    {
+        "uuid": "4eb1016b-88d4-4fe4-a774-602080f701f4",
+        "quote": "If you want to achieve greatness stop asking for permission.",
+        "author": "Unknown",
+        "id": 51
+    },
+    {
+        "uuid": "1367cd1f-6238-4080-9a94-10f18f429d6b",
+        "quote": "You can't build a reputation on what you are going to do.",
+        "author": "Henry Ford",
+        "id": 52
+    },
+    {
+        "uuid": "01a2941e-e89f-4d88-81b1-f045b9ebc093",
+        "quote": "You are never too old to set another goal or to dream a new dream.",
+        "author": "C.S. Lewis",
+        "id": 53
+    },
+    {
+        "uuid": "d45904c2-7a41-4707-8c1b-a63635c82ed4",
+        "quote": "It is never too late to be what you might have been.",
+        "author": "George Eliot",
+        "id": 54
+    },
+    {
+        "uuid": "59e3b7a3-2053-4ac1-9348-3ac3bd351c37",
+        "quote": "If we all did the things we are capable of doing, we would literally astound ourselves.",
+        "author": "Thomas Edison",
+        "id": 55
+    },
+    {
+        "uuid": "cb16dfed-61e1-49f4-bc2b-3955e4902e9f",
+        "quote": "The best revenge is massive success.",
+        "author": "Frank Sinatra",
+        "id": 56
+    },
+    {
+        "uuid": "e2e18345-d017-44fb-8fdd-4dcc850643cc",
+        "quote": "Don't watch the clock; do what it does. Keep going.",
+        "author": "Sam Levenson",
+        "id": 57
+    },
+    {
+        "uuid": "702330f1-8ae6-47b3-9011-75715a8f03fa",
+        "quote": "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle.",
+        "author": "Christian D. Larson",
+        "id": 58
+    },
+    {
+        "uuid": "4845859e-f925-46c0-a230-1829a001abf2",
+        "quote": "The best way to find yourself is to lose yourself in the service of others.",
+        "author": "Mahatma Gandhi",
+        "id": 59
+    },
+    {
+        "uuid": "370bced6-9bbf-40b2-a38a-02326edfb9fe",
+        "quote": "If you want to lift yourself up, lift up someone else.",
+        "author": "Booker T. Washington",
+        "id": 60
+    },
+    {
+        "uuid": "3118f4e4-bf77-4bb1-9990-f20d64af66dd",
+        "quote": "Since love and fear can hardly exist together, if we must choose between them, it is far safer to be feared than loved.",
+        "author": "Niccolo Machiavelli",
+        "id": 61
+    },
+    {
+        "uuid": "25cad29d-72b2-41b3-8208-6ebc28508d81",
+        "quote": "Opportunities are usually disguised as hard work, so most people don't recognize them.",
+        "author": "Ann Landers",
+        "id": 62
+    },
+    {
+        "uuid": "adcdf452-aede-4270-a556-a5d5ab4cafcb",
+        "quote": "Happiness is nothing more than good health and a bad memory.",
+        "author": "Albert Schweitzer",
+        "id": 63
+    },
+    {
+        "uuid": "98386337-b201-418c-adf7-6acd4f7eb4df",
+        "quote": "Do what you can, with what you have, where you are.",
+        "author": "Theodore Roosevelt",
+        "id": 64
+    },
+    {
+        "uuid": "f6880405-06dd-4fd3-981c-c334439c4daa",
+        "quote": "God creates men, but they choose each other.",
+        "author": "Niccolo Machiavelli",
+        "id": 65
+    },
+    {
+        "uuid": "9a75d65e-7755-4e39-823f-77b6f3b2320a",
+        "quote": "Just because something doesn't do what you planned it to do doesn't mean it's useless.",
+        "author": "Thomas Edison",
+        "id": 66
+    },
+    {
+        "uuid": "8b90ef66-e02f-464d-8a92-75468bd5c65c",
+        "quote": "The hardest thing when you think about focusing. You think focusing is about saying \"Yes.\" No. Focusing is about saying \"No\" And when you say \"No,\" you piss off people.",
+        "author": "Steve Jobs",
+        "id": 67
+    },
+    {
+        "uuid": "9d061b2d-a307-4f6c-873e-98ef426394e4",
+        "quote": "Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do.",
+        "author": "Mark Twain",
+        "id": 68
+    },
+    {
+        "uuid": "e92957a2-b48c-4a7f-a93b-88e70dea0722",
+        "quote": "The greatest wealth is to live content with little.",
+        "author": "Plato",
+        "id": 69
+    },
+    {
+        "uuid": "1678df9b-ba55-42a7-82e9-4cfdaa067c75",
+        "quote": "I have found that among its other benefits, giving liberates the soul of the giver.",
+        "author": "Maya Angelou",
+        "id": 70
+    },
+    {
+        "uuid": "2546da9c-4730-48a1-955b-4797214fc15c",
+        "quote": "If you don't like something, change it. If you can't change it, change your attitude.",
+        "author": "Maya Angelou",
+        "id": 71
+    },
+    {
+        "uuid": "136ea9c9-7432-4411-953a-e7e9332d3b99",
+        "quote": "Champions keep playing until they get it right.",
+        "author": "Billie Jean King",
+        "id": 72
+    },
+    {
+        "uuid": "a3e4d0ec-6f3b-4a65-8b31-2a9179bfd6ac",
+        "quote": "If you judge people, you have no time to love them.",
+        "author": "Mother Teresa",
+        "id": 73
+    },
+    {
+        "uuid": "a9729c07-0137-455a-87c2-361472631472",
+        "quote": "If opportunity doesn't knock, build a door.",
+        "author": "Milton Berle",
+        "id": 74
+    },
+    {
+        "uuid": "06c26a94-008a-4176-a601-d9ec0d5cd96e",
+        "quote": "It is better to be feared than loved, if you cannot be both.",
+        "author": "Niccolo Machiavelli",
+        "id": 75
+    },
+    {
+        "uuid": "22bdbb9b-1090-4995-afc3-3a1eb223a56f",
+        "quote": "I'm as proud of what we don't do as I am of what we do.",
+        "author": "Steve Jobs",
+        "id": 76
+    },
+    {
+        "uuid": "5679a263-f688-47b7-a8bf-0d784f8bdbb3",
+        "quote": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+        "author": "Zig Ziglar",
+        "id": 77
+    },
+    {
+        "uuid": "eaedb463-a501-4f4a-bc4d-f24ed452dcce",
+        "quote": "Everything you can imagine is real.",
+        "author": "Pablo Picasso",
+        "id": 78
+    },
+    {
+        "uuid": "e7a4af14-9b04-4e33-9ec9-950e8c7c688c",
+        "quote": "Happiness is not the absence of problems, it's the ability to deal with them.",
+        "author": "Steve Maraboli",
+        "id": 79
+    },
+    {
+        "uuid": "0d2abb80-8b33-46a0-94db-2d55330806b3",
+        "quote": "Don't let yesterday take up too much of today.",
+        "author": "Will Rogers",
+        "id": 80
+    },
+    {
+        "uuid": "5e38e9ed-1e25-433c-a0e4-8a8e5b6f3fe7",
+        "quote": "You have to learn the rules of the game. And then you have to play better than anyone else.",
+        "author": "Albert Einstein",
+        "id": 81
+    },
+    {
+        "uuid": "3cb3a1a3-3950-4ab6-a00a-a0d47a133833",
+        "quote": "The need for change bulldozed a road down the center of my mind.",
+        "author": "Maya Angelou",
+        "id": 82
+    },
+    {
+        "uuid": "02c87222-edd7-40e5-b713-dc61983e723c",
+        "quote": "People who are crazy enough to think they can change the world, are the ones who do.",
+        "author": "Rob Siltanen",
+        "id": 83
+    },
+    {
+        "uuid": "99c0b383-59af-4321-88c4-2e6b08e64f2e",
+        "quote": "If you want to achieve greatness, stop asking for permission.",
+        "author": "Unknown",
+        "id": 84
+    },
+    {
+        "uuid": "ab24e424-6b51-4010-80ee-4e40a08daa9e",
+        "quote": "The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it.",
+        "author": "Steve Jobs",
+        "id": 85
+    },
+    {
+        "uuid": "77dd217a-ee7e-48e7-b834-aa862cfd076b",
+        "quote": "Virtue is choked with foul ambition.",
+        "author": "William Shakespeare",
+        "id": 86
+    },
+    {
+        "uuid": "18d9e85d-3bdd-4ed5-b468-4204cf61c68a",
+        "quote": "An idealist is a person who helps other people to be prosperous.",
+        "author": "Henry Ford",
+        "id": 87
+    },
+    {
+        "uuid": "8318f12c-20e6-4533-b455-7f058ad9adf7",
+        "quote": "A man cannot be comfortable without his own approval.",
+        "author": "Mark Twain",
+        "id": 88
+    },
+    {
+        "uuid": "9141691d-56dd-4480-af27-95b35a6e2d3e",
+        "quote": "The best way to predict the future is to create it.",
+        "author": "Peter Drucker",
+        "id": 89
+    },
+    {
+        "uuid": "fd1ba93e-5569-426e-89c7-12b7d115cc3f",
+        "quote": "I attribute my success to this: I never gave or took any excuse.",
+        "author": "Florence Nightingale",
+        "id": 90
+    },
+    {
+        "uuid": "24798724-e699-44dd-b8ec-8581d11f4e9a",
+        "quote": "In three words I can sum up everything I've learned about life: it goes on.",
+        "author": "Robert Frost",
+        "id": 91
+    },
+    {
+        "uuid": "43313091-99e4-4eb8-ace8-2b4cf040d09e",
+        "quote": "When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.",
+        "author": "Helen Keller",
+        "id": 92
+    },
+    {
+        "uuid": "e4b26c4a-4db0-409c-a50d-52591bf74d3e",
+        "quote": "Before God we are all equally wise - and equally foolish.",
+        "author": "Albert Einstein",
+        "id": 93
+    },
+    {
+        "uuid": "f8bd11c4-1280-46e5-a158-4a785ea33ff2",
+        "quote": "I am not bound to please thee with my answers.",
+        "author": "William Shakespeare",
+        "id": 94
+    },
+    {
+        "uuid": "418ce803-ce96-4258-a5c2-0e57371338f5",
+        "quote": "I know why the caged bird sings.",
+        "author": "Maya Angelou",
+        "id": 95
+    },
+    {
+        "uuid": "1bf7c69b-5528-4bba-b73d-74c336a3556b",
+        "quote": "If you treat people right they will treat you right - ninety percent of the time.",
+        "author": "Franklin D. Roosevelt",
+        "id": 96
+    },
+    {
+        "uuid": "588783b3-aee9-4b26-a6b1-dea594d3857b",
+        "quote": "When neither their property nor their honor is touched, the marjority of men live content.",
+        "author": "Niccolo Machiavelli",
+        "id": 97
+    },
+    {
+        "uuid": "18ccfa82-54d4-47b0-bc95-d4f4b368b209",
+        "quote": "If an injury has to be done to a man it should be so severe that his vengeance need not be feared.",
+        "author": "Niccolo Machiavelli",
+        "id": 98
+    },
+    {
+        "uuid": "b6fbd96f-1bd9-4593-96bf-6b6548d9389f",
+        "quote": "The needs of society determine its ethics.",
+        "author": "Maya Angelou",
+        "id": 99
+    },
+    {
+        "uuid": "c2b0f03b-d069-488d-9bc2-e6078d9aa0e4",
+        "quote": "Strive not to be a success, but rather to be of value.",
+        "author": "Albert Einstein",
+        "id": 100
+    }
+]

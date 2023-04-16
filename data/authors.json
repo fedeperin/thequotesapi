@@ -1,0 +1,338 @@
+[
+    {
+        "author": "Abraham Lincoln",
+        "id": 1,
+        "author_uuid": "1ae6a1db-755c-44b2-a21a-bc1947ea0f69",
+        "image": "https://thequotesapi.onrender.com/images/abraham_lincoln.png"
+    },
+    {
+        "author": "Alan Kay",
+        "id": 2,
+        "author_uuid": "fc28e2ea-6a74-4a80-9ba7-76357ca68fea",
+        "image": "https://thequotesapi.onrender.com/images/alan_kay.png"
+    },
+    {
+        "author": "Albert Einstein",
+        "id": 3,
+        "author_uuid": "09b47f66-60e8-4990-82fa-a97dcc9da753",
+        "image": "https://thequotesapi.onrender.com/images/albert_einstein.png"
+    },
+    {
+        "author": "Albert Schweitzer",
+        "id": 4,
+        "author_uuid": "ba40b976-e4a0-4993-9450-47065b02b3f6",
+        "image": "https://thequotesapi.onrender.com/images/albert_schweitzer.png"
+    },
+    {
+        "author": "Ann Landers",
+        "id": 5,
+        "author_uuid": "d0c27abc-4e3d-491a-8590-ea8e5e05f987",
+        "image": "https://thequotesapi.onrender.com/images/ann_landers.png"
+    },
+    {
+        "author": "Aristotle",
+        "id": 6,
+        "author_uuid": "349482f5-7060-426d-85ca-dce8aacee324",
+        "image": "https://thequotesapi.onrender.com/images/aristotle.png"
+    },
+    {
+        "author": "Ayn Rand",
+        "id": 7,
+        "author_uuid": "a1badbb7-f7c2-46b8-9535-4c0f444f5fa0",
+        "image": "https://thequotesapi.onrender.com/images/ayn_rand.png"
+    },
+    {
+        "author": "Billie Jean King",
+        "id": 8,
+        "author_uuid": "4890a466-acb3-49da-a073-e760f238ac81",
+        "image": "https://thequotesapi.onrender.com/images/billie_jean_king.png"
+    },
+    {
+        "author": "Booker T. Washington",
+        "id": 9,
+        "author_uuid": "24d5d9af-857f-49eb-a04f-620e108acbb6",
+        "image": "https://thequotesapi.onrender.com/images/booker_t_washington.png"
+    },
+    {
+        "author": "C. S. Lewis",
+        "id": 10,
+        "author_uuid": "8a0934aa-9b9f-48a7-83f8-9a58f9f53ad0",
+        "image": "https://thequotesapi.onrender.com/images/c_s_lewis.png"
+    },
+    {
+        "author": "Charles R. Swindoll",
+        "id": 11,
+        "author_uuid": "7fea8bc6-7773-4479-948e-c72155ded003",
+        "image": "https://thequotesapi.onrender.com/images/charles_r_swindoll.png"
+    },
+    {
+        "author": "Christian D. Larson",
+        "id": 12,
+        "author_uuid": "bf2190d3-bba3-401a-a3f1-443579bf0b5e",
+        "image": "https://thequotesapi.onrender.com/images/christian_d_larson.png"
+    },
+    {
+        "author": "Confucius",
+        "id": 13,
+        "author_uuid": "9e545b71-9448-4187-be39-f0e3673efca5",
+        "image": "https://thequotesapi.onrender.com/images/confucius.png"
+    },
+    {
+        "author": "Dalai Lama",
+        "id": 14,
+        "author_uuid": "8d7846ea-2beb-4e0c-95c0-4f32594befd1",
+        "image": "https://thequotesapi.onrender.com/images/dalai_lama.png"
+    },
+    {
+        "author": "Eleanor Roosevelt",
+        "id": 15,
+        "author_uuid": "ea988aef-d557-42f9-8e7f-d9c1da772b90",
+        "image": "https://thequotesapi.onrender.com/images/eleanor_roosevelt.png"
+    },
+    {
+        "author": "Florence Nightingale",
+        "id": 16,
+        "author_uuid": "ef30c640-6c2f-44e0-af17-26e91e024cb7",
+        "image": "https://thequotesapi.onrender.com/images/florence_nightingale.png"
+    },
+    {
+        "author": "Frank Sinatra",
+        "id": 17,
+        "author_uuid": "8558a14e-c1f9-4afa-be57-ec5667e1bc4e",
+        "image": "https://thequotesapi.onrender.com/images/frank_sinatra.png"
+    },
+    {
+        "author": "Franklin D. Roosevelt",
+        "id": 18,
+        "author_uuid": "154caa2f-a5f3-4aa6-82f7-11b4b53e17ea",
+        "image": "https://thequotesapi.onrender.com/images/franklin_d_roosevelt.png"
+    },
+    {
+        "author": "George Eliot",
+        "id": 19,
+        "author_uuid": "8c8e02cd-0ce5-4a3a-b0d8-fd8c2da57005",
+        "image": "https://thequotesapi.onrender.com/images/george_eliot.png"
+    },
+    {
+        "author": "Helen Keller",
+        "id": 20,
+        "author_uuid": "4ea55be4-800c-4e07-9f60-0e39a18b6628",
+        "image": "https://thequotesapi.onrender.com/images/helen_keller.png"
+    },
+    {
+        "author": "Henry David Thoreau",
+        "id": 21,
+        "author_uuid": "628a4ba1-53dc-4b33-bd1f-6a017c78ce45",
+        "image": "https://thequotesapi.onrender.com/images/henry_david_thoreau.png"
+    },
+    {
+        "author": "Henry Ford",
+        "id": 22,
+        "author_uuid": "63db019e-e021-453f-9a8a-54ae0bbe3853",
+        "image": "https://thequotesapi.onrender.com/images/henry_ford.png"
+    },
+    {
+        "author": "James Cameron",
+        "id": 23,
+        "author_uuid": "736c4bc0-6b94-4b0a-833e-261a34349de6",
+        "image": "https://thequotesapi.onrender.com/images/james_cameron.png"
+    },
+    {
+        "author": "Jimmy Dean",
+        "id": 24,
+        "author_uuid": "f8f7b489-c18a-46b4-b191-7393e10dd223",
+        "image": "https://thequotesapi.onrender.com/images/jimmy_dean.png"
+    },
+    {
+        "author": "John Lennon",
+        "id": 25,
+        "author_uuid": "c6c94348-98a7-404d-b740-6718ae011dc7",
+        "image": "https://thequotesapi.onrender.com/images/john_lennon.png"
+    },
+    {
+        "author": "Mahatma Gandhi",
+        "id": 26,
+        "author_uuid": "b7eb2e45-caf5-4c2a-a8d7-273075b56852",
+        "image": "https://thequotesapi.onrender.com/images/mahatma_gandhi.png"
+    },
+    {
+        "author": "Malcolm X",
+        "id": 27,
+        "author_uuid": "77827831-1796-42b7-8b72-1f502c85370a",
+        "image": "https://thequotesapi.onrender.com/images/malcolm_x.png"
+    },
+    {
+        "author": "Mark Twain",
+        "id": 28,
+        "author_uuid": "ccff3277-4fae-4fd0-a82b-5c1fb7bdbb23",
+        "image": "https://thequotesapi.onrender.com/images/mark_twain.png"
+    },
+    {
+        "author": "Martin Luther King Jr.",
+        "id": 29,
+        "author_uuid": "6d4f9752-f5d3-4ba3-85a1-31f46f310bfb",
+        "image": "https://thequotesapi.onrender.com/images/martin_luther_king_jr.png"
+    },
+    {
+        "author": "Maya Angelou",
+        "id": 30,
+        "author_uuid": "67135d04-3701-4fe0-abbb-6e6b556b7a0c",
+        "image": "https://thequotesapi.onrender.com/images/maya_angelou.png"
+    },
+    {
+        "author": "Milton Berle",
+        "id": 31,
+        "author_uuid": "e873ed0b-ffed-4cff-96b8-9894bb16fcb0",
+        "image": "https://thequotesapi.onrender.com/images/milton_berle.png"
+    },
+    {
+        "author": "Mother Teresa",
+        "id": 32,
+        "author_uuid": "d59e2e8f-710d-412d-a464-32004db2060a",
+        "image": "https://thequotesapi.onrender.com/images/mother_teresa.png"
+    },
+    {
+        "author": "Nelson Mandela",
+        "id": 33,
+        "author_uuid": "22a892b1-2ff2-4cb4-8ec5-3d7b76ce7132",
+        "image": "https://thequotesapi.onrender.com/images/nelson_mandela.png"
+    },
+    {
+        "author": "Niccolo Machiavelli",
+        "id": 34,
+        "author_uuid": "f27341ac-fca6-4258-bf48-8c6c720a0719",
+        "image": "https://thequotesapi.onrender.com/images/niccolo_machiavelli.png"
+    },
+    {
+        "author": "Oprah Winfrey",
+        "id": 35,
+        "author_uuid": "801f585f-b395-4dd5-ba38-d592d66ce983",
+        "image": "https://thequotesapi.onrender.com/images/oprah_winfrey.png"
+    },
+    {
+        "author": "Pablo Picasso",
+        "id": 36,
+        "author_uuid": "37a4e18e-ecc4-4048-bb31-6cdd792199f2",
+        "image": "https://thequotesapi.onrender.com/images/pablo_picasso.png"
+    },
+    {
+        "author": "Peter Drucker",
+        "id": 37,
+        "author_uuid": "5d1bbb39-c7fe-4ee5-bd92-2e6231b1d974",
+        "image": "https://thequotesapi.onrender.com/images/peter_drucker.png"
+    },
+    {
+        "author": "Plato",
+        "id": 38,
+        "author_uuid": "a30e6d23-513e-4f36-886b-1a53b4a80954",
+        "image": "https://thequotesapi.onrender.com/images/plato.png"
+    },
+    {
+        "author": "Ralph Waldo Emerson",
+        "id": 39,
+        "author_uuid": "2de93c18-1077-431c-bb84-95b710131226",
+        "image": "https://thequotesapi.onrender.com/images/ralph_waldo_emerson.png"
+    },
+    {
+        "author": "Rob Siltanen",
+        "id": 40,
+        "author_uuid": "67abef25-9848-4d39-ae05-2aa0b839414c",
+        "image": "https://thequotesapi.onrender.com/images/rob_siltanen.png"
+    },
+    {
+        "author": "Robert Frost",
+        "id": 41,
+        "author_uuid": "d4070fa5-77d6-4e7c-90c0-e2cbd49af902",
+        "image": "https://thequotesapi.onrender.com/images/robert_frost.png"
+    },
+    {
+        "author": "Robert Louis Stevenson",
+        "id": 42,
+        "author_uuid": "fc726cfc-7109-498a-b9f3-6db0f2dc5939",
+        "image": "https://thequotesapi.onrender.com/images/robert_louis_stevenson.png"
+    },
+    {
+        "author": "Sam Levenson",
+        "id": 43,
+        "author_uuid": "a946f8ff-2bb4-45ef-b85b-c125d37c6596",
+        "image": "https://thequotesapi.onrender.com/images/sam_levenson.png"
+    },
+    {
+        "author": "Socrates",
+        "id": 44,
+        "author_uuid": "7a8f908d-0b5e-4fa8-93e9-50fe61142a11",
+        "image": "https://thequotesapi.onrender.com/images/socrates.png"
+    },
+    {
+        "author": "Steve Jobs",
+        "id": 45,
+        "author_uuid": "930abc13-234c-405c-b8e8-d7a0c342acb4",
+        "image": "https://thequotesapi.onrender.com/images/steve_jobs.png"
+    },
+    {
+        "author": "Steve Maraboli",
+        "id": 46,
+        "author_uuid": "30d93902-ef03-498f-8704-df7a92c18d20",
+        "image": "https://thequotesapi.onrender.com/images/steve_maraboli.png"
+    },
+    {
+        "author": "Theodore Roosevelt",
+        "id": 47,
+        "author_uuid": "667ae661-7fd0-4e3d-b80e-afbc34f01274",
+        "image": "https://thequotesapi.onrender.com/images/theodore_roosevelt.png"
+    },
+    {
+        "author": "Thomas Edison",
+        "id": 48,
+        "author_uuid": "759197f3-16cf-4826-8b09-581cd655051c",
+        "image": "https://thequotesapi.onrender.com/images/thomas_edison.png"
+    },
+    {
+        "author": "Unknown",
+        "id": 49,
+        "author_uuid": "1249a969-5ac6-4f36-8ffc-120f7a58032c",
+        "image": "https://thequotesapi.onrender.com/images/unknown.png"
+    },
+    {
+        "author": "Vince Lombardi",
+        "id": 50,
+        "author_uuid": "3b792d8f-f018-42f8-a2bf-783c4328c70e",
+        "image": "https://thequotesapi.onrender.com/images/vince_lombardi.png"
+    },
+    {
+        "author": "Walt Disney",
+        "id": 51,
+        "author_uuid": "16bc2a26-b1e1-45a8-9f68-5d7261e3c0be",
+        "image": "https://thequotesapi.onrender.com/images/walt_disney.png"
+    },
+    {
+        "author": "Wayne Gretzky",
+        "id": 52,
+        "author_uuid": "de85db38-0815-403a-afeb-5710f583c4a0",
+        "image": "https://thequotesapi.onrender.com/images/wayne_gretzky.png"
+    },
+    {
+        "author": "Will Rogers",
+        "id": 53,
+        "author_uuid": "8073a4ff-04c0-4b53-9e4e-a523fe31aeef",
+        "image": "https://thequotesapi.onrender.com/images/will_rogers.png"
+    },
+    {
+        "author": "William Shakespeare",
+        "id": 54,
+        "author_uuid": "bfebc712-c543-439a-bd1c-b3340c075770",
+        "image": "https://thequotesapi.onrender.com/images/william_shakespeare.png"
+    },
+    {
+        "author": "Winston Churchill",
+        "id": 55,
+        "author_uuid": "8d8c96c4-3f8a-469b-a6aa-40d5cf84ab4f",
+        "image": "https://thequotesapi.onrender.com/images/winston_churchill.png"
+    },
+    {
+        "author": "Zig Ziglar",
+        "id": 56,
+        "author_uuid": "024605e5-7a7d-474d-a2a8-be3c57aaf7d2",
+        "image": "https://thequotesapi.onrender.com/images/zig_ziglar.png"
+    }
+]
