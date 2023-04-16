@@ -7,7 +7,7 @@ import quotes from './routes/quotes.js'
 import authors from './routes/authors.js'
 import cors from 'cors'
 const app = express()
-const port = 3000 || process.env.PORT
+const PORT = process.env.PORT || 3000
 
 app.use(express.static('public'))
 app.use(
@@ -22,4 +22,4 @@ app.use(cors())
 app.use('/quotes', quotes)
 app.use('/authors', authors)
 
-app.listen(port, () => console.log(`Listening on port ${ port }`))
+app.listen(PORT, () => console.log(`Listening on port ${ PORT }`))
