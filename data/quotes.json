@@ -598,5 +598,17 @@
         "quote": "Strive not to be a success, but rather to be of value.",
         "author": "Albert Einstein",
         "id": 100
+    },
+    {
+        "uuid": "b7ed67ef-a63a-42f4-b39e-4a87a7e29775",
+        "quote": "Inspiration does exist, but it must find you working.",
+        "author": "Pablo Picasso",
+        "id": 101
+    },
+    {
+        "uuid": "bd0a593a-ae55-4ca2-a55e-d6ba88385f17",
+        "quote": "A great secret of success is to go through life as a man who never gets used up.",
+        "author": "Albert Schweitzer",
+        "id": 102
     }
 ]
